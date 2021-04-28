@@ -1,27 +1,32 @@
 {
   "main": {
-    "name":"Joy Rinonos",
-    "description":"Computer Science major, and East Asian Studies and Studio Art minor interested in UX/UI Design.",
+    "name":"Student Name",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"I'm currently a second year Computer Science major at the University of Virginia. I'm most interested in pursuing UX/UI Design in my career, but open to trying new things and learning new skills. Outside of school I'm actively involved in Aerial Dance Club at UVA and the Sigma Chapter of the alpha Kappa Delta Phi Sorority Inc., at UVa.",
-    "contactmessage":"I'd love to speak with you! You can find my contact information below",
-    "email": "jcr7etj@virginia.edu",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "student@uvawise.com",
     "address":{
       "city":"Charlottesville",
       "state":"Virginia",
       "zip": "22903"
     },
-    "website": "jcrino.github.io",
-    "resumedownload":"https://drive.google.com/file/d/1r1uUelodiWuBgWsSheQzK6df0_lioKZQ/view?usp=sharing",
+    "website": "<username>.github.io",
+    "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
     "social":[
       {
+        "name":"twitter", 
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/joy-rinonos",
+        "url":"https://www.linkedin.com/in/yoururl/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/jcrino",
+        "url":"http://github.com/githubusername",
         "className":"fa fa-github"
       }
     ]
@@ -29,10 +34,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"SQL Introduction",
-        "category":"My first introduction to using SQL",
-        "image":"sql.png",
-        "url":"https://drive.google.com/file/d/1FkVHHdGB6gcVE4gW6qv1MoGIoCEwFKsR/view?usp=sharing"
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
       }
     ]
   }
